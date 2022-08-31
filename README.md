@@ -8,7 +8,14 @@
 
 ## 진행사항
 
-  ### 1-topic : 기초 코드 구현력 기르기
+ <details>
+<summary>1-topic : 기초 코드 구현력 기르기</summary>
+<div markdown="1">
+
+안녕
+
+</div>
+</details>
 
 
 <p align="center">
