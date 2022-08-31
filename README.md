@@ -7,27 +7,11 @@
 </p>
 
 ## 진행사항
+  ### 기본적인 주제부터 중요한 주제별로 단계적으로 학습해 나갈 예정입니다.
+  <br>
+  ### 1-topic : 기본 코드 구현력 기르기
 
- <details>
-<summary>1-topic : 기초 코드 구현력 기르기</summary>
-<div markdown="1">
-  안녕
-</div>
-<div markdown="2">
-  홀리쉿맨
-</div>
-</details>
-
-
-<p align="center">
-  
-  
-</p>
-
-<br>
-
-
-<br>
+ 
 
 ## 라이센스
 
