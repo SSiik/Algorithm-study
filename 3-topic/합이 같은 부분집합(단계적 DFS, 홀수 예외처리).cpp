@@ -1,11 +1,6 @@
 #include <iostream>
 using namespace std;
 
-/*
-  재귀함수 분석. 
-*/
-
-
 int N,sum=0,sum2=0;
 int ch[10];
 int ch2[10]; 
