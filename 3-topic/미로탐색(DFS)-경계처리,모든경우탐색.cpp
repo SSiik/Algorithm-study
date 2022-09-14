@@ -19,7 +19,6 @@ void DFS(int x,int y){
 		return;
 	}
 	else{
-	
 		for(int i=0;i<4;i++){
 			if(x+dx[i]<0 || x+dx[i]>6 || y+dy[i] < 0 || y+dy[i] > 6 ) continue; //범위를 넘어가면 예외처리를 해야함. 
 			if(map[x+dx[i]][y+dy[i]]==0 && chk[x+dx[i]][y+dy[i]]==0){
