@@ -5,8 +5,6 @@
 using namespace std;
 
 
-
-
 int main() {
 	/*
 priority_queue<타입> pq; 이렇게 선언할수 있습니다.
