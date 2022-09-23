@@ -4,7 +4,7 @@
 using namespace std;
 
 /*
-   BFS 기본. 
+   BFS 기본
 */
 int chk[8];
 vector<int> map[8];
