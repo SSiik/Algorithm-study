@@ -7,6 +7,8 @@ int chk[21];
 int N,M,count=0;
 
 
+
+
 void DFS(int start){
 	if(start==N){
 		count++;
