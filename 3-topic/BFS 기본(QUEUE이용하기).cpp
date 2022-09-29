@@ -9,6 +9,8 @@ using namespace std;
 int chk[8];
 vector<int> map[8];
 
+
+
 int main() {
 	int start,finish,cur;
 	for(int i=0;i<6;i++){
