@@ -12,8 +12,6 @@ int N;
 int chk[21];
 vector<pair<int,int>> map[21];
    
-    
-
 
 void DFS(int start,int sum){
 	if(start==N){
