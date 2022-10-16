@@ -5,6 +5,8 @@ using namespace std;
 
 /*
    BFS ±âº». 
+
+
 */
 
 int S,E,cur;
