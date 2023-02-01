@@ -4,6 +4,7 @@ using namespace std;
 
 // 진약수 구하기. 
 int main() {
+
 	int N,sum=1;
 	cin>>N;
 	cout<<1;
