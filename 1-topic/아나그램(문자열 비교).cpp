@@ -17,6 +17,7 @@ char ch1[52];  //각 문자열마다 대문자 26개 소문자 26개를 담을 "카운트"배열.
 char ch2[52];
 int main() { 
 	
+
 	string input1,input2;
 	cin>>input1>>input2;
 
