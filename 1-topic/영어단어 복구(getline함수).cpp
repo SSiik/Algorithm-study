@@ -15,6 +15,7 @@ getline(cin,문자열변수) 이용하면 "공백을 포함한 문자열"도 받을수 있습니다.
 cstring 라이브러리를 계산한것이 string 라이브러리다? 
 */
 int main() {
+
 	// 97~122  65~90
 	string tmp,result="";
 	getline(cin,tmp);
