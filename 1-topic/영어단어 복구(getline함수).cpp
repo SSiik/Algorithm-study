@@ -17,6 +17,7 @@ cstring 라이브러리를 계산한것이 string 라이브러리다?
 */
 int main() {
 
+
 	// 97~122  65~90
 	string tmp,result="";
 	getline(cin,tmp);
